@@ -40,7 +40,7 @@ node.default["sublime_text_packages"] = [
         "name"   => "Sass",
         "source" => "https://github.com/nathos/sass-textmate-bundle.git",
         "branch" => "master"
-    }
+    },
     {
         "name"   => "SCSS",
         "source" => "https://github.com/MarioRicalde/SCSS.tmbundle.git",
