@@ -14,16 +14,11 @@ node.default["sublime_text_packages"] = [
     {
         "name"   => "BracketHighlighter",
         "source" => "https://github.com/facelessuser/BracketHighlighter.git",
-        "branch" => "BH2ST3"
+        "branch" => "ST3"
     },
     {
         "name"   => "Emmet",
         "source" => "https://github.com/sergeche/emmet-sublime.git",
-        "branch" => "master"
-    },
-    {
-        "name"   => "Git",
-        "source" => "https://github.com/kemayo/sublime-text-git.git",
         "branch" => "master"
     },
     {
